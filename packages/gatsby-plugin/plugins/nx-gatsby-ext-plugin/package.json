@@ -5,6 +5,6 @@
     "author": "max koretskyi",
     "license": "MIT",
     "peerDependencies": {
-        "gatsby": "^2.6.0"
+        "gatsby": "^2.6.0 || ^5.0.0"
     }
 }
